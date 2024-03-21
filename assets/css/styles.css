@@ -1,7 +1,7 @@
 /* Estilos personalizados */
 
 body {
-    background-image: url('./src/IMG-BG.png');
+    background-image: url('../img/IMG-BG.png');
     background-repeat: no-repeat;
     font-size: medium;
     width: 100%;
